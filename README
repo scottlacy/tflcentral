@@ -1,14 +1,9 @@
-# Header
+# Trail Mix
 
-This is a bunch of stuff.
+A tool for storing and manipulating road data
 
-## Sub-Header
+## Setting Up
 
-More stuff, stuff, stuff.
+Check out the trailmix projecta
 
-### Sub-Sub-Header
-
-More stuff!!!
-
-
-'''while i < 10 j++'''
+    git clone git@github.com:transloc/trailmix.git
